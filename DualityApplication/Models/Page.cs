@@ -1,4 +1,4 @@
-﻿namespace Duality.Models
+﻿namespace DualityApplication.Models
 {
     public class Page
     {

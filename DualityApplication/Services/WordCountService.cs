@@ -1,8 +1,8 @@
-﻿using Duality.Interfaces;
-using Duality.Models;
+﻿using DualityApplication.Interfaces;
+using DualityApplication.Models;
 using System;
 
-namespace Duality.Services
+namespace DualityApplication.Services
 {
     public class WordCountService
     {

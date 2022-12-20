@@ -1,7 +1,7 @@
-﻿using Duality.Interfaces;
-using Duality.Models;
+﻿using DualityApplication.Interfaces;
+using DualityApplication.Models;
 
-namespace Duality.ExternalFunctions
+namespace DualityApplication.ExternalFunctions
 {
     public class ExternalFunctions : IExternalFunctions
     {

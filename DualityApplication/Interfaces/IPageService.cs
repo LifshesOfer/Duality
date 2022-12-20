@@ -1,6 +1,6 @@
-﻿using Duality.Models;
+﻿using DualityApplication.Models;
 
-namespace Duality.Interfaces
+namespace DualityApplication.Interfaces
 {
     public interface IPageService
     {

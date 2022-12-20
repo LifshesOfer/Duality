@@ -1,6 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace Duality.Models
+namespace DualityApplication.Models
 {
     public class TreeNode<T>
     {

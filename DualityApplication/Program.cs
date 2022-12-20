@@ -1,7 +1,7 @@
-using Duality.ExternalFunctions;
-using Duality.Interfaces;
-using Duality.Models;
-using Duality.Services;
+using DualityApplication.ExternalFunctions;
+using DualityApplication.Interfaces;
+using DualityApplication.Models;
+using DualityApplication.Services;
 using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
